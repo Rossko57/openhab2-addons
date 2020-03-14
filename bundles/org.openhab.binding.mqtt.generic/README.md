@@ -100,7 +100,7 @@ If you always require an integer, please use the formatter.
 
 You can connect this channel to a Number item.
 
-### Channel Type "dimmer"
+### Channel Type "dimmer" (Percentage value)
  
 * __on__: An optional string (like "ON"/"Open") that is recognized as minimum.
 * __off__: An optional string (like "OFF"/"Close") that is recognized as maximum.
